@@ -1,0 +1,3 @@
+openai>=1.76.0
+pandas>=2.2.2
+pubchempy>=1.0.4

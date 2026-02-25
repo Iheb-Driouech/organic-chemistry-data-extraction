@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+env/
+
+# OpenAI
+.env
+
+# Outputs
+outputs/
+*.csv
+*_error.txt
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,43 @@
+{
+  "chemicals_and_materials": {
+    "Title": "Chemicals and Materials",
+    "Procedure": [
+      "Chemicals and Materials. Furfural (ACS reagent, 99%), p-phenylenediamine (>99%), tetrabutylammonium hydroxide (40 wt % in water), dry acetonitrile (>99.8%, anhydrous), DMSO (ACS reagent, 99%) and methanol (>99.85%) were purchased from Aldrich. 1,4-phenylene diacetonitrile (>98%) was purchased from TCI. Dithiooxamide (98%) and lithium bis-(trifluoromethanesulfonyl)imide (LiTFSI) (>98%) were purchased from Acros Organics. All reagents were used as received, without further purification."
+    ]
+  },
+
+  "pbfa": {
+    "Title": "Synthesis of (2Z,2′Z)-2,2′-(1,4-Phenylene)bis(3-(furan-2-yl)-acrylonitrile) (PBFA)",
+    "Procedure": [
+      "Synthesis of (2Z,2′Z)-2,2′-(1,4-Phenylene)bis(3-(furan-2-yl)-acrylonitrile) (PBFA). Furfural (0.1 mL, 1.206 mmol, 1 equiv) and 1,4-phenylenediacetonitrile (0.16 g, 0.603 mmol, 0.5 equiv) were dissolved in 10 mL of methanol and heated in a microwave reactor (150 W) until 65 °C. Then, tetrabutylammonium hydroxide (0.78 mL, 1.206 mmol, 1 equiv) was carefully added to the medium. The solution was subjected to microwave radiation at 65 °C with a power of 150 W during 1 h. The reaction kinetics were monitored by collecting aliquots from the crude reaction mixture at different time intervals and analyzing them by 1H NMR in deuterated chloroform. A yellow solid was obtained and filtered using a Büchner funnel. The synthesized product was washed and recrystallized with methanol. Before the characterization, the solid product was dried under vacuum overnight (yield = 86%). For the conventional synthesis, furfural and 1,4-phenylenediacetonitrile were added in the same quantities as for the microwave synthesis in methanol in a 100 mL Schlenk flask. The mixture was heated to 65 °C, after which tetrabutylammonium hydroxide was carefully added. The reaction was maintained at 65 °C for 6 h (yield = 75%). Liquid 1H nuclear magnetic resonance (NMR) spectra of the samples were recorded at 298 K using a 400 MHz Bruker Avance NMR in CDCl3; 1H NMR (400 MHz, CDCl3, δ): 7.71 ppm (dd, 2H, Har), 7.64 ppm (dd, 2H, −O−CH), 7.45 ppm (s, 2H, −CH═C−CN), 7.25 ppm (dd, 4H, −C═CH−CH), 6.61 ppm (dd, 2H, −CH═CH−CH). HRMS calculated for C20H12N2O2: 312.33 gmol−1, found 312.089341 gmol−1 (Figures S7 and S11)."
+    ]
+  },
+
+  "pbfi": {
+    "Title": "Synthesis of (1E,1′E)-N,N′-(1,4-Phenylene)bis(1-(furan-2-yl)-methanimine) (PBFI)",
+    "Procedure": [
+      "Synthesis of (1E,1′E)-N,N′-(1,4-Phenylene)bis(1-(furan-2-yl)-methanimine) (PBFI). Furfural (0.1 mL, 1.206 mmol, 1 equiv) and p-phenylenediamine (0.065 g, 0.603 mmol, 0.5 equiv) were dissolved in 10 mL of DMSO and heated in a microwave reactor at 100 °C with a power of 150 W for 1 h. The reaction kinetics were monitored by 1H NMR analysis of aliquots taken from the crude reaction mixture at different time intervals in deuterated chloroform. An orange solid was formed, which was filtered using a Büchner funnel. The obtained product was then washed and recrystallized with methanol. Prior to characterization, the solid was dried under vacuum overnight (yield = 83%). For the conventional synthesis, furfural and p-phenylenediamine were used in the same quantities as in the microwave synthesis in DMSO in a 100 mL Schlenk flask. The reaction mixture was heated to 130 °C and maintained at that temperature for 18 h (yield = 73%). Liquid 1H NMR spectra of the samples were recorded at 298 K using a 400 MHz Bruker Avance NMR in DMSO-d6. 1H NMR (400 MHz, DMSO-d6, δ): 8.80 ppm (s, 2H, −CH═N), 7.96 ppm (dd, 2H, −O−CH), 7.33 ppm (ddd, 4H, −Har), 7.16 ppm (dd, 2H, −C═CH−CH), 6.73 ppm (dd, 2H, −CH═CH−CH) (Figure S9)."
+    ]
+  },
+
+  "pbft": {
+    "Title": "Synthesis of 2,5-Di(furan-2-yl)thiazolo[5,4-d]thiazole (PBFT)",
+    "Procedure": [
+      "Synthesis of 2,5-Di(furan-2-yl)thiazolo[5,4-d]thiazole (PBFT). Furfural (0.1 mL, 1.206 mmol, 1 equiv) and dithiooxamide (0.0725 g, 0.603 mmol, 0.5 equiv) were dissolved in 10 mL of DMSO and added in a microwave vial to follow the same procedure as for the PBFI. A red solid was formed, which was filtered using a Büchner funnel. The obtained product was then washed and recrystallized with methanol. Prior to characterization, the solid was dried under vacuum overnight (yield = 80%). For the conventional synthesis, furfural and dithiooxamide were used in the same quantities as in the microwave synthesis in DMSO in a 100 mL Schlenk flask. The reaction mixture was heated to 130 °C and maintained at that temperature for 40 h (yield = 73%). Liquid 1H nuclear magnetic resonance (NMR) spectra of the samples were recorded at 298 K using a 400 MHz Bruker Avance NMR in DMSO-d6. 1H NMR (400 MHz, DMSO-d6, δ): 7.99 ppm (dd, 2H, −O−CH), 7.29 ppm (dd, 2H, −CH−CH−C−), 7.79 ppm (dd, 2H, −CH−CH−CH) (Figure S8 and S10)."
+    ]
+  },
+
+  "electropolymerization": {
+    "Title": "Electropolymerization of P(PBFA) and P(PBFT)",
+    "Procedure": [
+      "Electropolymerization of P(PBFA) and P(PBFT). To assess the electropolymerization potential of the precursors, cyclic voltammetry (CV) was conducted using a VersaSTAT3 potentiostat (Princeton Applied Research). CV data were collected in a solution containing 0.1 M LiTFSI in anhydrous acetonitrile employing a scan rate of 50 mV s−1 ranging from 0 to +1.5 V vs Ag/AgCl. The experiments utilized a three-electrode setup, comprising an ITO (VisionTek Systems Ltd, 15 mm × 15 mm × 0.2 sq−1) substrate as the working electrode, a platinum wire counter electrode and an Ag/AgCl electrode in 3 mol L−1 KCl as the reference electrode. Prior to each electrochemical test, the working electrode surface was cleaned in an ultrasonic bath using several solvents, 10 min each, 10 min in a 4% solution of Hellmanex basic soap, followed by three cycles of 5 min in distilled water, and finally 10 min in isopropanol."
+    ]
+  },
+
+  "device_fabrication": {
+    "Title": "Organic photovoltaic devices fabrication",
+    "Procedure": [
+      "Organic photovoltaic (OPV) devices were fabricated using a direct architecture: glass/ITO/P(PBFA)/P(Q10:Y6/Ca/Al. ITO-coated glass substrates (1.5 × 1.5 cm; 10 Ω/sq, VisionTek) were cleaned by sequential ultrasonic baths in detergent, deionized water, and isopropanol. The hole transport layer, P(PBFA), was deposited by electropolymerization via 1 or 2 cyclic voltammetry cycles, following the previously described procedure. The resulting films were thermally annealed in air at 100 °C for 10 min. The active layer solution was prepared by dissolving a P(Q10:Y6 blend (weight ratio 1:1.2, total concentration 20 mg mL−1) in dry chloroform and stirring overnight at 55 °C in a nitrogen-filled glovebox. The solution was then filtered through a 0.45 μm PTFE filter and spin-coated (35 μL, 3000 rpm, 60 s) onto the P(PBFA) layer. A second thermal annealing step was performed at 100 °C for 10 min. Finally, calcium (20 nm) and aluminum (100 nm) electrodes were thermally evaporated under high vacuum (P = 10−6 mbar). The active area of the OPV devices was 10.5 mm2."
+    ]
+  }
+}
